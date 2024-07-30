@@ -4,6 +4,19 @@
 
 This C++ application allows users to switch between software rasterizing and DirectX11 rendering, providing flexibility and performance options for various use cases. The program offers several features to enhance rendering control and visualization.
 
+## Examples
+
+DirectX11:
+
+<img width="474" alt="DualRasterizer_DirectX" src="https://github.com/user-attachments/assets/dfa3be6d-e72c-4533-92f4-e2e6bf1be41c">
+
+
+Software:
+
+<img width="476" alt="DualRasterizer_Software" src="https://github.com/user-attachments/assets/67429244-c214-4b9c-9caf-5d6560218340">
+
+
+
 ## Features
 
 ### General
